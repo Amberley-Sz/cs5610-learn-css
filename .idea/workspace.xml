@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a05c79f-5421-4c26-b431-d936ae2544e1" name="Default Changelist" comment="" />
+    <list default="true" id="3a05c79f-5421-4c26-b431-d936ae2544e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +22,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="011024" />
-                    <option name="lastUsedInstant" value="1705526032" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1705526302" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1705525912" />
+                    <option name="branchName" value="011024" />
+                    <option name="lastUsedInstant" value="1705526032" />
                   </RecentBranch>
                 </list>
               </option>
@@ -58,19 +60,6 @@
       <recent name="$PROJECT_DIR$/quiz/css" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +68,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705521784265</updated>
-      <workItem from="1705521788658" duration="4436000" />
+      <workItem from="1705521788658" duration="5357000" />
+      <workItem from="1705628807416" duration="2132000" />
+      <workItem from="1705953251564" duration="298000" />
     </task>
     <servers />
   </component>
@@ -96,5 +87,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
